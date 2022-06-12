@@ -1,0 +1,1 @@
+Even number = 382, Average = 47
